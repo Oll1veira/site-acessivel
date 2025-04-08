@@ -1,5 +1,5 @@
 # Site acessível sobre Tribo da Periferia
-# Sobre
+# Sobre TP
 Refatoração de um site implementando recursos de acessibilidade no html, css e JS.
 ## Recursos de acessibilidade
 - Atributos aria
